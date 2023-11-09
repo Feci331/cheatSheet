@@ -7,3 +7,5 @@ pwd - print working directory
 ls -Force -- rejtett mappak mutatasa
 git status - git verzio mutat
 git init - verzio letrehozas
+git add -m "alma" - commitolasi
+git add . - fajt add hozza
