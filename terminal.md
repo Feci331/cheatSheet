@@ -12,3 +12,7 @@ git add . - fajt add hozza
 git checkout - commit hash - (git log nal latjuk a codot)
 rm -Force - mappa torlese
 rm - fajt torlunk
+git remote add "egy nev alma" 
+git remote add origin - repo link - githubon meg kell külön csinalni
+gitremote -v -megnezi van e repo
+git push - feltölt 
