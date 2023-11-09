@@ -9,3 +9,6 @@ git status - git verzio mutat
 git init - verzio letrehozas
 git add -m "alma" - commitolasi
 git add . - fajt add hozza
+git checkout - commit hash - (git log nal latjuk a codot)
+rm -Force - mappa torlese
+rm - fajt torlunk
